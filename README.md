@@ -1,7 +1,7 @@
 # Py Hundir la Flota
 
 
-Final project for the first programming course  
+Final project for the first programming course (1st year)
 Degree in Mathematical Engineering and Artificial Intelligence
 
 
